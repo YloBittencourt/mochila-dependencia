@@ -1,0 +1,15 @@
+# Exemplo clássico da aula de PAA
+# Capacidade
+5
+# Quantidade de itens
+4
+# Itens: peso valor
+1 8
+3 7
+2 5
+4 9
+# Matriz de dependências 4x4
+0 0 0 0
+1 0 0 0
+1 0 0 0
+0 0 1 0

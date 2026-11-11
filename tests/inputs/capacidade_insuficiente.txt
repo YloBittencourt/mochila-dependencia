@@ -1,0 +1,11 @@
+# Capacidade insuficiente para qualquer item
+# Capacidade
+1
+# Quantidade de itens
+2
+# Itens: peso valor
+5 10
+3 8
+# Matriz 2x2
+0 0
+0 0

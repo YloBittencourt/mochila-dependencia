@@ -1,0 +1,16 @@
+# Binários e objetos compilados
+bin/
+obj/
+*.o
+*.out
+
+# Executáveis locais
+mochila
+test_mochila
+
+# Arquivos de depuração e IDEs
+.vscode/
+.idea/
+*.dSYM/
+*.swp
+*~

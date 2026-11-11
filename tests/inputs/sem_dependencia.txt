@@ -1,0 +1,15 @@
+# Mochila 0/1 clássica sem dependências
+# Capacidade
+7
+# Quantidade de itens
+4
+# Itens: peso valor
+2 10
+3 15
+4 20
+5 25
+# Matriz 4x4 (sem dependências)
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0

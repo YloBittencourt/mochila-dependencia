@@ -1,0 +1,13 @@
+# Cadeia de dependências: Item 3 depende do Item 2, que depende do Item 1
+# Capacidade
+6
+# Quantidade de itens
+3
+# Itens: peso valor
+2 5
+2 10
+2 30
+# Matriz 3x3
+0 0 0
+1 0 0
+0 1 0

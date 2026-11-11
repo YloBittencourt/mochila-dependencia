@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  build-and-test:
+    name: Build & Test (GCC)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Compilar binário principal
+        run: make
+
+      - name: Executar suíte de testes
+        run: make test
+
+      - name: Checagem estrita de memória (AddressSanitizer)
+        run: make sanitize

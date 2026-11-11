@@ -74,3 +74,4 @@ void imprimir_tabela_dp(const ResultadoMochila *res, const Item *itens);
 void imprimir_solucao(const ResultadoMochila *res, const Item *itens);
 
 #endif /* IO_H */
+

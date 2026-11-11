@@ -23,3 +23,4 @@ jobs:
 
       - name: Checagem estrita de memória (AddressSanitizer)
         run: make sanitize
+

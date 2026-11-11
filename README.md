@@ -229,3 +229,4 @@ Os arquivos de entrada aceitam comentários iniciando com `#` e linhas em branco
 ## 📜 Licença
 
 Distribuído sob a licença [MIT](LICENSE). Consulte o arquivo `LICENSE` para mais detalhes.
+

@@ -86,3 +86,4 @@ void determinar_objetos_inclusos(int i, int j, const Item *itens, int **tabela, 
 ResultadoMochila *resolver_mochila(const Item *itens, int **grafo, int n, int capacidade);
 
 #endif /* MOCHILA_H */
+

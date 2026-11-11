@@ -55,3 +55,4 @@ help:
 	@echo "  make sanitize - Compila e testa com AddressSanitizer (detecção de leaks e falhas de memória)"
 	@echo "  make clean    - Remove arquivos compilados e binários"
 	@echo "  make help     - Exibe esta mensagem de ajuda"
+
